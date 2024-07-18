@@ -1,6 +1,8 @@
-Bachelor's degree program **"Computer Science and Technology for Software Production"**
+# **Tombola game Development for the subject "Programming I"**
 
-**Tombola game Development for the subject "Programming I"**
+## Bachelor's degree program **"Computer Science and Technology for Software Production"**
+
+
 
 **Requirements**
 
